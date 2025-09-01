@@ -10,8 +10,8 @@ const poppins = Poppins({
 })
 
 export const metadata: Metadata = {
-  title: "CloudNest",
-  description: "CloudNest is a cloud storage platform that allows users to store and share files securely.",
+  title: "StoreIt",
+  description: "StoreIt is a cloud storage platform that allows users to store and share files securely.",
 };
 
 export default function RootLayout({
